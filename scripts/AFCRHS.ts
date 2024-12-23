@@ -19,6 +19,7 @@
         'no-target':
             ' A redirect cannot be created unless the target is an existing article. Either you have not specified the target, or the target does not exist',
         'unlikely': 'The title you suggested seems unlikely. Could you provide a source showing that it is a commonly used alternate name?',
+        'unrelated': 'The title you suggested is not related to and not mentioned in the target article. Could you provide a source showing that it is a commonly used alternate name?'
         'not-redirect': 'This request is not a redirect request',
         'custom': '',
     };
