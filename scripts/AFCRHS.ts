@@ -457,7 +457,7 @@
                                 { labelAndValue: 'R to anthroponymy page' },
                                 { labelAndValue: 'R to disambiguation page' },
                                 { labelAndValue: 'R to list entry' },
-                                { labelAndValue: 'R to section' },
+                                { labelAndValue: 'R to subsection' },
                                 { labelAndValue: 'To miscellaneous', disabled: true },
                                 { labelAndValue: 'R to decade' },
                                 { labelAndValue: 'R to related topic' },
